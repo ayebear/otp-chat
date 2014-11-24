@@ -1,0 +1,3 @@
+[submodule "otplib"]
+	path = otplib
+	url = git@github.com:ayebear/otplib.git
